@@ -1,0 +1,14 @@
+.slide_image{
+    height:600px;
+    object-fit: cover;
+}
+.service_icon{
+    font-size: 70px;
+}
+/* .contact-form{
+    background-color: grey;
+} */
+.contact-section{
+    color: aliceblue;
+    background-color: black;
+}
